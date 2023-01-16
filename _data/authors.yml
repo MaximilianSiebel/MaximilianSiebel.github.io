@@ -1,0 +1,75 @@
+# The primary author of this blog.
+# Must be the same as `author` in `_config.yml`.
+# Change `author1` to your shortname.
+author1:
+  name:              Maximilian Siebel
+  email:             siebel@math.uni-heidelberg.de
+
+  # Used at the bottom of each page and at the top of the `about` layout
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:             |
+    Hello! Welcome on my homepage! Welcome to my homepage! Currently, I am PhD student under the supervision of [Prof. Jan Johannes](https://sip.math.uni-heidelberg.de) at the [Institute of Applied Mathematics](https://www.math.uni-heidelberg.de). I am part of the cluster of excellence [STRUCTURES](https://www.uni-heidelberg.de/de/forschung/forschungsprofil/exzellenzstrategie/structures)
+
+  # This photo will be used in the about section
+  picture: /assets/img/me.jpg
+   
+
+  # Social media icons in sidebar
+  # Comment/uncommet to show/hide
+  # Rearrange to change the order in which they appear
+  social:
+    #twitter:         <username>
+    #github:          <username>
+    email:           siebel@math.uni-heidelberg.de
+    # rss:             https://<url>/feed.xml
+    # facebook:        <username>
+    # google:          <number>
+    # vk:              <username>
+    # youtube:         <string_string_string>
+    # vimeo:           <username>
+    # vine:            <username>
+    # spotify:         <user>/<number>
+    # soundcloud:      <username>
+    # lastfm:          <username>
+    # instagram:       <username>
+    # flickr:          <string@string>
+    # 500px:           <username>
+    # dribbble:        <username>
+    # behance:         <username>
+    # deviantart:      <username>
+    # ello:            <username>
+    # twitch:          <username>
+    # steam:           <number>
+    # reddit:          <username>
+    # tumblr:          <username>
+    # pinterest:       <username>
+    # foursquare:      <number>
+    # yelp:            <string>
+    # stackoverflow:   <number/username>
+    # npm:             <username>
+    # hackernews:      <username>
+    # trello:          <firstnamelastname>
+    linkedin:           maximilian-siebel-9429161a0
+
+    # xing:            <firstname_lastname_counter>
+    # blogger:         <number>
+    # delicious:       <username>
+    # stumbleupon:     <username>
+    # paypal:          <username>
+    # download:        <url>
+    # keybase          <username>
+
+# Another author (optional)
+#author2:
+#  name:              <firtname> <lastname>
+#  email:             <mail@domain.tld>
+#  about:             |
+#    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+#    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#
+#    Open `_data/authors.yml` to edit this text.
+#
+#  picture:           https://placehold.it/128x128
+#  twitter:           <username>
+#  github:            <username>
