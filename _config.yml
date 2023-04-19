@@ -112,11 +112,11 @@ google_fonts:          Roboto+Slab:700|Noto+Sans:400,400i,700,700i
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
 #font:                  Noto Sans, Helvetica, Arial, sans-serif
-font:                   AvantGarde #serif #Times New Roman
+font:                   Helvetica #serif #Times New Roman
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font_heading:          AvantGarde #serif #Times New Roman
+font_heading:           Helvetica #serif #Times New Roman
 
 # The font used for code blocks. Expects a string that is a valid CSS font-family value.
 font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;
