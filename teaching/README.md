@@ -10,6 +10,8 @@ permalink: /teaching/
 
 ## (Student-) Teaching Assistant
 
+* **Sommer term 2023:** "Wahrscheinlichkeitstheorie I", held by Dr. Jan Fuhrmann.
+
 * **Winter term 2022/2023:** "Statistics II", held by Prof. Dr. Jan Johannes.
 
 * **Summer term 2022:** "Wahrscheinlichkeitstheorie I", held by Prof. Dr. Rainer Dahlhaus.
