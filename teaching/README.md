@@ -10,7 +10,9 @@ permalink: /teaching/
 
 ## (Student-) Teaching Assistant
 
-* **Winter term 2023/2024:** 
+* **Winter term 2023/2024:** Seminar "Statistik für diskret beobachtete Lévy Prozesse"
+
+* **Winter term 2023/2024:** Proseminar "Irrfahrten"
 
 * **Sommer term 2023:** Lecture "Wahrscheinlichkeitstheorie I", held by Dr. Jan Fuhrmann.
 

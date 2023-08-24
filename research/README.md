@@ -12,13 +12,35 @@ permalink: /research/
 
 My interests include statistics of inverse problems, Bayesian statistics, and stochastic analysis. Currently, I am working on PDE-constrained regression models, where analytical theory of partial differential equations is combined with statistical regression models.
 
-## Abroad
+## Preprints
 
-* German Probability and Statistics Days 2023; Essen, Germany; March 2023 (only participation)
+* August 2023 - Sergio Brenner Miguel, Jan Johannes, Maximilian Siebel: [Multiplicative deconvolution under unknown error distribution](https://arxiv.org/abs/2308.08423)
 
-* Workshop: Statistics for Stochastic Processes: SDEs, SPDEs and concentration of measure; University of Luxembourg; September 2022 (only participation)
+## Talks
 
-* 10th International Conference on Lévy Processes; Mannheim, Germany; July 2022 (only participation)
+* Applied Analysis Seminar, Heidelberg, June 2022; Title: "Statistical Inverse Problems: PDE constrained Regression Models"
+
+* Doktorrand:innentreffen Heidelberg - Mannheim, Mannheim, May 2023; Title: "Statistical Inverse Problems: PDE constrained Regression Models"
+
+## Poster
+
+* YRC Structures Days, Heidelberg, July 2023; Title: "Statistical Inverse Problems: (P)DE Constrained Regression Models"
+
+## Conferences
+
+I was part of the organising committee of the [18. Doktorand:innentreffen der Stochastik](https://stat.math.uni-heidelberg.de/dts2023/index.html) in August 2023. I also attended the following conferences and workshops:
+
+* 11th Applied Inverse Problems Conference; Göttingen, Germany; September 2023
+
+* European Meeting of Statisticians; Warsaw, Poland; July 2023
+
+* Conference on statistical estimation; St. Etienne, France; June 2023
+
+* German Probability and Statistics Days 2023; Essen, Germany; March 2023 
+
+* Workshop: Statistics for Stochastic Processes: SDEs, SPDEs and concentration of measure; University of Luxembourg; September 2022 
+
+* 10th International Conference on Lévy Processes; Mannheim, Germany; July 2022
 
 
 ## Theses 
