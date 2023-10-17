@@ -18,9 +18,11 @@ My interests include statistics of inverse problems, Bayesian statistics, and st
 
 ## Talks
 
-* Applied Analysis Seminar, Heidelberg, June 2022; Title: "Statistical Inverse Problems: PDE constrained Regression Models"
+* Research Group Seminar, PIK FutureLab "AI in Anthropocene", Potsdam, September 2023; Title: "Statistical Inference: Regression Models driven by Differential Equations"
 
 * Doktorrand:innentreffen Heidelberg - Mannheim, Mannheim, May 2023; Title: "Statistical Inverse Problems: PDE constrained Regression Models"
+
+* Applied Analysis Seminar, Heidelberg, June 2022; Title: "Statistical Inverse Problems: PDE constrained Regression Models"
 
 ## Poster
 
