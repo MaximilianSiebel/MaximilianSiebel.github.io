@@ -44,6 +44,10 @@ I was part of the organising committee of the [18. Doktorand:innentreffen der St
 
 * 10th International Conference on Lévy Processes; Mannheim, Germany; July 2022
 
+## Research Stays (>= 2 Weeks)
+
+* Resarch Group in Mathematical Statistics - Professor Richard Nickl - University of Cambridge; November 2023
+
 
 ## Theses 
 
