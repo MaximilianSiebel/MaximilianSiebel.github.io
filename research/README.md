@@ -18,6 +18,8 @@ My interests include statistics of inverse problems, Bayesian statistics, and st
 
 ## Talks
 
+* Stochastics Seminar, Stochatsics Group, Aarhus University, May 2024; Title: "Multiplicative deconvolution under unknown error distribution"
+
 * Research Group Seminar, PIK FutureLab "AI in Anthropocene", Potsdam, September 2023; Title: "Statistical Inference: Regression Models driven by Differential Equations"
 
 * Doktorrand:innentreffen Heidelberg - Mannheim, Mannheim, May 2023; Title: "Statistical Inverse Problems: PDE constrained Regression Models"
@@ -44,9 +46,11 @@ I was part of the organising committee of the [18. Doktorand:innentreffen der St
 
 * 10th International Conference on Lévy Processes; Mannheim, Germany; July 2022
 
-## Research Stays (>= 2 Weeks)
+## Research Stays 
 
-* Resarch Group in Mathematical Statistics - Professor Richard Nickl - University of Cambridge; November 2023
+* The Stochastics Group - Claudia Strauch - Aarhus University; May 2024
+
+* Resarch Group in Mathematical Statistics - Richard Nickl - University of Cambridge; November 2023
 
 
 ## Theses 
