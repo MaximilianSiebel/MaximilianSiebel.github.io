@@ -8,7 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hello! Welcome on my homepage! Welcome to my homepage! Currently, I am PhD student under the supervision of [Prof. Jan Johannes](https://sip.math.uni-heidelberg.de) at the [Institute of Applied Mathematics](https://www.math.uni-heidelberg.de). I am part of the cluster of excellence [STRUCTURES](https://www.uni-heidelberg.de/de/forschung/forschungsprofil/exzellenzstrategie/structures)
+    This is the personal homepage of Maximilian Siebel. 
 
   # This photo will be used in the about section
   picture: /assets/img/me.jpg
