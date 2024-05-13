@@ -10,7 +10,7 @@ permalink: /research/
 
 ## Research Interests
 
-My interests include statistics of inverse problems, Bayesian statistics, and stochastic analysis. Currently, I am working on Regression models driven by differential equations, where statistical theory meets the analysis of differential equations.
+My interests include statistics of inverse problems, Bayesian statistics, and stochastic analysis. Currently, I am working on regression models driven by differential equations, where statistical theory meets the analysis of differential equations.
 
 ## Preprints
 
