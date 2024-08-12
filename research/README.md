@@ -14,9 +14,13 @@ My interests include statistics of inverse problems, Bayesian statistics, and st
 
 ## Preprints
 
+* July 2024 - Christof Schötz, Maximilian Siebel: [Lower Bounds for Nonparametric Estimation of Ordinary Differential Equations](https://arxiv.org/abs/2407.14993)
+
 * August 2023 - Sergio Brenner Miguel, Jan Johannes, Maximilian Siebel: [Multiplicative deconvolution under unknown error distribution](https://arxiv.org/abs/2308.08423)
 
 ## Talks
+
+* Bernoulli-ims 11th World Congress in Probability and Statistics; Bochum, Germany; August 2024; Title: "Nonparametric Estimation of Ordinary Differential Equations"
 
 * Stochastics Seminar, Stochatsics Group, Aarhus University, May 2024; Title: "Multiplicative deconvolution under unknown error distribution"
 
@@ -34,6 +38,8 @@ My interests include statistics of inverse problems, Bayesian statistics, and st
 
 I was part of the organising committee of the [18. Doktorand:innentreffen der Stochastik](https://stat.math.uni-heidelberg.de/dts2023/index.html) in August 2023. I also attended the following conferences and workshops:
 
+* Bernoulli-ims 11th World Congress in Probability and Statistics; Bochum, Germany; August 2024
+
 * 11th Applied Inverse Problems Conference; Göttingen, Germany; September 2023
 
 * European Meeting of Statisticians; Warsaw, Poland; July 2023
@@ -50,7 +56,7 @@ I was part of the organising committee of the [18. Doktorand:innentreffen der St
 
 * The Stochastics Group - Claudia Strauch - Aarhus University; May 2024
 
-* Resarch Group in Mathematical Statistics - Richard Nickl - University of Cambridge; November 2023
+* Research Group in Mathematical Statistics - Richard Nickl - University of Cambridge; November 2023
 
 
 ## Theses 
