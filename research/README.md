@@ -14,11 +14,15 @@ My interests include statistics of inverse problems, Bayesian statistics, and st
 
 ## Preprints
 
+* August 2024 - Maximilian Siebel: [Convergence Rates for the Maximum A Posteriori Estimator in PDE-Regression Models with Random Design](https://arxiv.org/abs/2409.03417)
+
 * July 2024 - Christof Schötz, Maximilian Siebel: [Lower Bounds for Nonparametric Estimation of Ordinary Differential Equations](https://arxiv.org/abs/2407.14993)
 
 * August 2023 - Sergio Brenner Miguel, Jan Johannes, Maximilian Siebel: [Multiplicative deconvolution under unknown error distribution](https://arxiv.org/abs/2308.08423)
 
 ## Talks
+
+* Workshop: Statistical Aspects of Non-Linear Inverse Problems; University of Cambridge, UK; September 17-19, 2024; Title: "Convergence Rates for the Maximum A Posteriori Estimator in PDE-Regression Models with Random Design"
 
 * Bernoulli-ims 11th World Congress in Probability and Statistics; Bochum, Germany; August 2024; Title: "Nonparametric Estimation of Ordinary Differential Equations"
 
