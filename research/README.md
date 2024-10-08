@@ -8,6 +8,9 @@ sitemap: false
 permalink: /research/
 ---
 
+1. this list will be replaced by the toc
+{:toc .large-only}
+
 ## Research Interests
 
 My interests include statistics of inverse problems, Bayesian statistics, and stochastic analysis. Currently, I am working on regression models driven by differential equations, where statistical theory meets the analysis of differential equations.
@@ -42,6 +45,8 @@ My interests include statistics of inverse problems, Bayesian statistics, and st
 
 I was part of the organising committee of the [18. Doktorand:innentreffen der Stochastik](https://stat.math.uni-heidelberg.de/dts2023/index.html) in August 2023. I also attended the following conferences and workshops:
 
+* Workshop: Statistical Aspects of Non-Linear Inverse Problems; University of Cambridge, UK; September 2024
+
 * Bernoulli-ims 11th World Congress in Probability and Statistics; Bochum, Germany; August 2024
 
 * 11th Applied Inverse Problems Conference; Göttingen, Germany; September 2023
@@ -59,6 +64,8 @@ I was part of the organising committee of the [18. Doktorand:innentreffen der St
 ## Research Stays 
 
 * The Stochastics Group - Claudia Strauch - Aarhus University; May 2024
+
+* Potsdam-Institut für Klimafolgenforschung (PIK) - January 2024
 
 * Research Group in Mathematical Statistics - Richard Nickl - University of Cambridge; November 2023
 

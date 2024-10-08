@@ -1,16 +1,4 @@
 # Config
-# ========================================================================================
-
-# Uncomment and set the URL of your site (with protocol, e.g. `https://`)
-# NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-#url:                   https://MaximilianSiebel.github.io
-
-# Uncomment and set the "base URL" of your site.
-# When your site is in a subdirectory, set to `/<name of directory>`,
-# with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
-# NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-#baseurl:               '/hydejack-starter-kit'
-
 
 # General settings
 # ---------------------------------------------------------------------------------------
@@ -25,52 +13,31 @@ title:                 Maximilian Siebel
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  This is the personal homepage of Maximilian Siebel.
+  Maximilian Siebel is a Phd student at Heidelberg University.
 
 # A shorter description for the sidebar.
-tagline:                Ph.D. Student
+tagline:               Ph.D. Student
 
 # A list of keywords for your blog
 keywords:              [Maximilian Siebel, Ph.D. Student]
 
-# A (square) logo for your site.
-# If provided, it will be shown at the top of the sidebar.
-# It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/me.jpg
+logo:                  /assets/img/logo.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:  Maximilian Siebel
-  email: siebel@math.uni-heidelberg.de
-  linkedin: maximilian-siebel-9429161a0
-
-  about: |
-
-  # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  # Used by `jekyll-feed`:
+  name:                <Maximilian> <Siebel>
+  email:               <siebel@math.uni-heidelberg.de>
 
 # Add links to the sidebar.
 menu:
-  #- title:             About
-  #  url:               /about/
-  #- title:             Example
-  #  url:               /example/
-  #- title:             Documentation
-  #  url:               /docs/
-  - title:             Research
-    url:               /research/
+  - title:             News
+    url:               /news/
   - title:             Teaching
     url:               /teaching/
-
-# Add links to the footer.
-# Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-#legal:
-#  - title:             LICENSE
-#    url:               /LICENSE/
-#  - title:             NOTICE
-#    url:               /NOTICE/
-#  - title:             CHANGELOG
-#   url:               /CHANGELOG/
+  - title:             Research
+    url:               /research/
+ 
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2024. All rights reserved.
@@ -82,44 +49,53 @@ permalink:             /:categories/:year-:month-:day-:title/
 paginate:              10
 paginate_path:         /:num/
 
+favicon: /favicon.ico
+apple_touch_icon: /assets/img/logo.png
 
 # Theme
 # ---------------------------------------------------------------------------------------
 
-#theme: jekyll-theme-hydejack # das muss raus
-# das muss rein
-remote_theme: hydecorp/hydejack@v9.1.6
+# This will use the gem `jekyll-theme-hydejack`, as defined in the sibling `Gemfile`.
+#theme: jekyll-theme-hydejack
 
-favicon: /favicon.ico
-
+# You can uncomment `theme` above and replace it with `remote_theme` here iff you are using the 
+# `jekyll-remote-theme` plugin (which is the case when using the legacy GitHub Pages pipeline).
+# This will fetch the `v9` branch of the public Hydejack repository on GitHub.
+remote_theme: hydecorp/hydejack@v9.2.1
 
 # Customizaton
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/landscape3.jpg
-accent_color:          rgb(100,100,100)
+accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(160,180,235)
+theme_color:           rgb(25,55,71)
+
+# IMPORTANT:
+# As of Hydejack 9.2, Google Fonts are turned off by default due to a stronger focus on privacy.
+# Hydejack will use the default font of your visitor's operating system instead.
+# If you want to match the look of hydejack.com, remove the following line and uncomment 
+# the font-related options below:
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
-google_fonts:          Roboto+Slab:700|Noto+Sans:400,400i,700,700i
+# google_fonts:          Roboto+Slab:700|Noto+Sans:400,400i,700,700i
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-#font:                  Noto Sans, Helvetica, Arial, sans-serif
-font:                   Helvetica #serif #Times New Roman
+# font:                  Noto Sans, Helvetica, Arial, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font_heading:           Helvetica #serif #Times New Roman
+# font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 
-# The font used for code blocks. Expects a string that is a valid CSS font-family value.
-font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;
+# The font used for code blocks. Expects a string that is a valid CSS font-family value. 
+# Defaults to the [System Monospace Font Stack](https://qwtel.com/posts/software/the-monospaced-system-ui-css-font-stack/).
+# font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;
 
 defaults:
   # You can use this to provide a default accent color and background for
@@ -127,8 +103,8 @@ defaults:
   - scope:
       path:            hyde/
     values:
-      accent_color:    rgb(38,139,100)
-      theme_color:     rgb(32,32,100)
+      accent_color:    rgb(38,139,210)
+      theme_color:     rgb(32,32,32)
       accent_image:
         background:    rgb(32,32,32)
         overlay:       false
@@ -139,6 +115,7 @@ defaults:
     values:
       sitemap:         false
 
+  # Don't include licenses in sitemap (feel free to delete)
   - scope:
       path:            licenses/
     values:
@@ -170,25 +147,9 @@ defaults:
         type:          WebPage
 
 kramdown:
-  math_engine:         mathjax
+  math_engine:         katex
   math_engine_opts:    {}
   footnote_backlink:   '&#x21a9;&#xfe0e;'
-
-
-# 3rd Party Integrations
-# ----------------------------------------------------------------------------------------
-
-# Set your Google Analytics id to receive `pageview` events.
-# To remove Google Anaylics from your page, remove the line below.
-# google_analytics:      UA-XXXXXXXX-X
-
-# Setting a disqus shortname will enable the comment section on
-# pages with `comments: true` in the front matter.
-# disqus:                <username>
-
-# Setting a tinyletter username will enable the newsletter subscription box.
-# PRO version only!
-# tinyletter:            <username>
 
 
 # Hydejack Settings
@@ -255,7 +216,8 @@ hydejack:
   # Disable the breadcrumbs above the title
   no_breadcrumbs:      false
 
-  # Set to `true` when building with the `--lsi` option
+  # Set to `true` when building with the `--lsi` option.
+  # The net effect is to use the Jekyll-provided `site.related_posts` variable.
   use_lsi:             true
 
   # When using Google Analytics, set to `true` to display a cookie notice banner.
@@ -271,7 +233,7 @@ hydejack:
   # seeing an old date. 
   hide_dates:          false
 
-  # TODO
+  # Similarly, showing last modified date can devalue a post if it is too far in the past.
   hide_last_modified:  false
 
   # Note that dark mode only works in the PRO version of Hydejack.
@@ -319,11 +281,15 @@ collections:
 exclude:
   - .jekyll-cache
   - .sass-cache
+  - .ruby-lsp
+  - .wrangler
   - '*.toml'
   - vendor
   - Gemfile
   - Gemfile.lock
+  - functions
 include:
+  - _routes.json
   - .well-known
   - LICENSE.md
 
@@ -332,8 +298,8 @@ include:
 # ----------------------------------------------------------------------------------------
 
 plugins:
-  - jekyll-default-layout
   - jekyll-include-cache
+  - jekyll-default-layout
   - jekyll-feed
   - jekyll-optional-front-matter
   - jekyll-paginate
@@ -404,30 +370,30 @@ sass:
 
 # Jekyll Compose Defaults
 # ---------------------------------------------------------------------------------------
-#
-#jekyll_compose:
-#  default_front_matter:
-#    drafts:
-#      layout: post
-#      description: >
-#        A short ~160 character description of your post for search engines,
-#        social media previews, etc.
-#      image:
-#        path: /assets/img/sidebar-bg.jpg
-#    posts:
-#      layout: post
-#      description: >
-#        A short ~160 character description of your post for search engines,
-#        social media previews, etc.
- #     image:
- #       path: /assets/img/sidebar-bg.jpg
- #   projects:
- #     layout: project
- #     description: >
- #       A short ~160 character description of your post for search engines,
- #       social media previews, etc.
- #     image:
- #       path: /assets/img/sidebar-bg.jpg
- #     links:
-  #      - title: Project Link
-  #        url: https://example.com
+
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      layout: post
+      description: > 
+        A short ~160 character description of your post for search engines,
+        social media previews, etc.
+      image:
+        path: /assets/img/sidebar-bg.jpg
+    posts:
+      layout: post
+      description: > 
+        A short ~160 character description of your post for search engines,
+        social media previews, etc.
+      image:
+        path: /assets/img/sidebar-bg.jpg
+    projects:
+      layout: project
+      description: > 
+        A short ~160 character description of your post for search engines,
+        social media previews, etc.
+      image:
+        path: /assets/img/sidebar-bg.jpg
+      links:
+        - title: Project Link
+          url: https://example.com
