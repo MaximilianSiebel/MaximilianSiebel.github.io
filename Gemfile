@@ -12,6 +12,11 @@ gem "jekyll", "~> 3.0"
 
 gem "jekyll-theme-hydejack", "~> 9.1"
 
+gem 'github-pages'
+gem 'rdiscount'
+
+gem "jekyll-include-cache", group: :jekyll_plugins
+
 # If you are part of the ["Customers" team](https://github.com/orgs/hydecorp/teams/pro-customers), 
 # you can fetch the theme from a private repository. 
 # See [Deploy in the Hydejack Docs](https://hydejack.com/docs/deploy) for details.
