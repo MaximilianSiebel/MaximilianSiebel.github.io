@@ -1,0 +1,21 @@
+---
+layout: post
+title:  New Article on ArXiv! 
+## description: >
+ ## Find my new preprint on ArXiv!
+sitemap: false
+hide_last_modified: true
+---
+**Title:** Lower Bounds for Nonparametric Estimation of Ordinary Differential Equations
+
+**Authors:** Christof Schötz, Maximilian Siebel
+
+**Abstract:** We noisily observe solutions of an ordinary differential equation $$u˙=f(u)$$ at given times, where u lives in a $$d$$-dimensional state space. The model function f is unknown and belongs to a Hölder-type smoothness class with parameter $$\beta$$. For the nonparametric problem of estimating $$f$$, we provide lower bounds on the error in two complementary model specifications: the snake model with few, long observed solutions and the stubble model with many short ones. The lower bounds are minimax optimal in some settings. They depend on various parameters, which in the optimal asymptotic regime leads to the same rate for the squared error in both models: it is characterized by the exponent $$−2\beta/(2(\beta+1)+d)$$ for the total number of observations $$n$$. To derive these results, we establish a master theorem for lower bounds in general nonparametric regression problems, which makes the proofs more comparable and seems to be a useful tool for future use.
+
+**Link:** [https://arxiv.org/abs/2407.14993](https://arxiv.org/abs/2407.14993)
+
+![200x200](../../assets/img/blog/RegODE/snake_data_paper.pdf)
+
+*[HTML]: HyperText Markup Language
+*[CSS]: Cascading Style Sheets
+*[JS]: JavaScript

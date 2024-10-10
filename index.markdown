@@ -7,6 +7,10 @@ title: Maximilian Siebel
 * this unordered seed list will be replaced by the toc
 {:toc}
 
+## About
+
+I am Ph.D. student under the supervision of Jan Johannes at the Institute of Mathematics at the University of Heidelberg. I am part of the cluster of excellence STRUCTURES (Exploratory Project, 7.6.). My interests include statistics of inverse problems, Bayesian statistics, and stochastic analysis. Currently, I am working on regression models driven by differential equations, where statistical theory meets the analysis of differential equations.
+
 ## Contact
 
 Faculty for Mathematics and Informatics  
@@ -22,6 +26,8 @@ D-69120 Heidelberg, Germany
 
 ## Education
 
+<center>
+
 | Date                  | Status              | Institution                           |
 |-----------------------|---------------------|---------------------------------------|
 | 12/2022 - present     | Ph.D. Student       | University of Heidelberg              |
@@ -29,10 +35,11 @@ D-69120 Heidelberg, Germany
 | 09/2021 - 02/2022     | Exchange Semester    | University of Copenhagen              |
 | 10/2017 - 09/2020     | Bachelor Mathematics  | University of Heidelberg              |
 | 2017                  | Abitur              | Bernstorff-Gymnasium Satrup          |
-
+</center>
 
 ## Working experience
 
+<center>
 | Date               | Status                      | Company                                    | Location         |
 |--------------------|-----------------------------|--------------------------------------------|-------------------|
 | 09/2021 - 09/2022  | Student Research Assistant   | University of Heidelberg                   | Heidelberg        |
@@ -41,4 +48,4 @@ D-69120 Heidelberg, Germany
 | 10/2019 - 03/2020  | Student Teaching Assistant   | University of Heidelberg                   | Heidelberg        |
 | 08/2019 - 09/2019  | Intern                      | Heidelberger Leben Service Management GmbH | Heidelberg        |
 | 02/2019 - 05/2019  | Student Research Assistant   | IWR                                        | Heidelberg        |
-
+</center>

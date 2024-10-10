@@ -11,10 +11,6 @@ permalink: /research/
 1. this list will be replaced by the toc
 {:toc .large-only}
 
-## Research Interests
-
-My interests include statistics of inverse problems, Bayesian statistics, and stochastic analysis. Currently, I am working on regression models driven by differential equations, where statistical theory meets the analysis of differential equations.
-
 ## Preprints
 
 * August 2024 - Maximilian Siebel: [Convergence Rates for the Maximum A Posteriori Estimator in PDE-Regression Models with Random Design](https://arxiv.org/abs/2409.03417)
