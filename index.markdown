@@ -26,26 +26,22 @@ D-69120 Heidelberg, Germany
 
 ## Education
 
-<center>
-
 | Date                  | Status              | Institution                           |
-|-----------------------|---------------------|---------------------------------------|
+|:-----------------------:|:---------------------:|:---------------------------------------:|
 | 12/2022 - present     | Ph.D. Student       | University of Heidelberg              |
 | 10/2020 - 10/2022     | Master Mathematics   | University of Heidelberg              |
 | 09/2021 - 02/2022     | Exchange Semester    | University of Copenhagen              |
 | 10/2017 - 09/2020     | Bachelor Mathematics  | University of Heidelberg              |
 | 2017                  | Abitur              | Bernstorff-Gymnasium Satrup          |
-</center>
 
 ## Working experience
 
-<center>
 | Date               | Status                      | Company                                    | Location         |
-|--------------------|-----------------------------|--------------------------------------------|-------------------|
+|:--------------------:|:-----------------------------:|:--------------------------------------------:|:-------------------:|
 | 09/2021 - 09/2022  | Student Research Assistant   | University of Heidelberg                   | Heidelberg        |
 | 03/2021 - 08/2021  | Working Student             | PWC                                        | Frankfurt (Main)  |
 | 10/2020 - 03/2021  | Student Teaching Assistant   | University of Heidelberg                   | Heidelberg        |
 | 10/2019 - 03/2020  | Student Teaching Assistant   | University of Heidelberg                   | Heidelberg        |
 | 08/2019 - 09/2019  | Intern                      | Heidelberger Leben Service Management GmbH | Heidelberg        |
 | 02/2019 - 05/2019  | Student Research Assistant   | IWR                                        | Heidelberg        |
-</center>
+
