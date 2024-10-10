@@ -10,13 +10,13 @@ permalink: /teaching/
 
 ## Teaching Assistant
 
-* **Winter term 2024/2025:** Seminar "[Extremwerttheorie](https://sip.math.uni-heidelberg.de/2024/07/12/Seminar-ET/)"
+* **Winter term 2024/2025:** Seminar "[Extremwerttheorie](https://sip.math.uni-heidelberg.de/2024/07/12/Seminar-ET/)".
 
 * **Winter term 2024/2025:** Lecture "[Linear Algebra I](https://sip.math.uni-heidelberg.de/vl/la1-ws24/)", held by [Prof. Dr. Jan Johannes](https://www.janjohannes.de).
 
 * **Summer term 2024:** Lecture "[Probability Theory II](https://stat.math.uni-heidelberg.de/~msiebel/wt2-ss24/index.html)", held by [Prof. Dr. Enno Mammen](https://stat.math.uni-heidelberg.de/~emammen/).
 
-* **Winter term 2023/2024:** Seminar "[Statistik für diskret beobachtete Lévy Prozesse](https://sip.math.uni-heidelberg.de/se/sdolp-ws23/)"
+* **Winter term 2023/2024:** Seminar "[Statistik für diskret beobachtete Lévy Prozesse](https://sip.math.uni-heidelberg.de/se/sdolp-ws23/)".
 
 * **Summer term 2023:** Lecture "Wahrscheinlichkeitstheorie I", held by [Dr. Jan Fuhrmann](https://www.uni-heidelberg.de/math/fuhrmann/).
 
