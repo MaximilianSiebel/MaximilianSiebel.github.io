@@ -11,15 +11,19 @@ permalink: /research/
 1. this list will be replaced by the toc
 {:toc .large-only}
 
+## Publications
+
+* November 2024 - Sergio Brenner Miguel, Jan Johannes, Maximilian Siebel. "[Multiplicative deconvolution under unknown error distribution.](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-18/issue-2/Multiplicative-deconvolution-under-unknown-error-distribution/10.1214/24-EJS2314.full)" Electronic Journal of Statistics, 18(2) 4795-4850 2024.
+
 ## Preprints
 
 * August 2024 - Maximilian Siebel: [Convergence Rates for the Maximum A Posteriori Estimator in PDE-Regression Models with Random Design](https://arxiv.org/abs/2409.03417)
 
 * July 2024 - Christof Schötz, Maximilian Siebel: [Lower Bounds for Nonparametric Estimation of Ordinary Differential Equations](https://arxiv.org/abs/2407.14993)
 
-* August 2023 - Sergio Brenner Miguel, Jan Johannes, Maximilian Siebel: [Multiplicative deconvolution under unknown error distribution](https://arxiv.org/abs/2308.08423)
-
 ## Talks
+
+* Seminar AG Stochastik; Karlsruhe Institute of Technology; November 2024; Title: "Convergence Rates for the Maximum A Posteriori Estimator in PDE-Regression Models with Random Design"
 
 * Workshop: Statistical Aspects of Non-Linear Inverse Problems; University of Cambridge, UK; September 17-19, 2024; Title: "Convergence Rates for the Maximum A Posteriori Estimator in PDE-Regression Models with Random Design"
 
