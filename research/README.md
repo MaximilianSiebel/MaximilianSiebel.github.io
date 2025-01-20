@@ -21,7 +21,7 @@ permalink: /research/
 
 * July 2024 - Christof Schötz, Maximilian Siebel: [Lower Bounds for Nonparametric Estimation of Ordinary Differential Equations](https://arxiv.org/abs/2407.14993)
 
-## <span style="color:#A9A9A9"> (Upcoming) text</span> Talks
+## <span style="color:#A9A9A9"> (Upcoming) </span> Talks
 
 * <span style="color:#A9A9A9"> GPSD 2025; Dresden, Germany; March 2025; Title: "Convergence Rates for the Maximum A Posteriori Estimator in PDE-Regression Models with Random Design" </span>
 
