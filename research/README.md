@@ -23,7 +23,12 @@ permalink: /research/
 
 ## Talks
 
-* Seminar AG Stochastik; Karlsruhe Institute of Technology; November 2024; Title: "Convergence Rates for the Maximum A Posteriori Estimator in PDE-Regression Models with Random Design"
+* <span style="color:blue">some *blue* text</span>
+
+* Cosmology Discussion Seminar (Prof. Dr. Matthias Bartelmann); Heidelberg University; January 2025; Title: "Estimating Differential Equations in the presence of stochastic noise -
+A mathematical perspective"
+
+* Seminar AG Stochastik (Mathias Trabs); Karlsruhe Institute of Technology; November 2024; Title: "Convergence Rates for the Maximum A Posteriori Estimator in PDE-Regression Models with Random Design"
 
 * Workshop: Statistical Aspects of Non-Linear Inverse Problems; University of Cambridge, UK; September 17-19, 2024; Title: "Convergence Rates for the Maximum A Posteriori Estimator in PDE-Regression Models with Random Design"
 
