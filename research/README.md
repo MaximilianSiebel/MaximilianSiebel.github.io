@@ -23,7 +23,7 @@ permalink: /research/
 
 ## <span style="color:#A9A9A9"> (Upcoming) </span> Talks
 
-* <span style="color:#A9A9A9"> GPSD 2025; Dresden, Germany; March 2025; Title: "Convergence Rates for the Maximum A Posteriori Estimator in PDE-Regression Models with Random Design" </span>
+* GPSD 2025; Dresden, Germany; March 2025; Title: "Convergence Rates for the Maximum A Posteriori Estimator in PDE-Regression Models with Random Design" 
 
 * Cosmology Discussion Seminar (Prof. Dr. Matthias Bartelmann); Heidelberg University; January 2025; Title: "Estimating Differential Equations in the presence of stochastic noise -
 A mathematical perspective"
@@ -48,7 +48,7 @@ A mathematical perspective"
 
 ## Conferences
 
-I was part of the organising committee of the [18. Doktorand:innentreffen der Stochastik](https://stat.math.uni-heidelberg.de/dts2023/index.html) in August 2023. I also attended the following conferences and workshops:
+I also attended the following conferences and workshops:
 
 * Workshop: Statistical Aspects of Non-Linear Inverse Problems; University of Cambridge, UK; September 2024
 
@@ -68,11 +68,20 @@ I was part of the organising committee of the [18. Doktorand:innentreffen der St
 
 ## Research Stays 
 
+* Research Group in Mathematical Statistics - Richard Nickl - University of Cambridge; April 2025 - July 2025 (3 Months)
+
 * The Stochastics Group - Claudia Strauch - Aarhus University; May 2024
 
 * Potsdam-Institut für Klimafolgenforschung (PIK) - January 2024
 
 * Research Group in Mathematical Statistics - Richard Nickl - University of Cambridge; November 2023
+
+## Professional Activities
+
+* **Reviewer:** Referee for The Annals of Statistics, Electronic Journal of Statistics, Journal of Multivariate Analysis, SIAM/ASA journal on uncertainty quantification, Statistics.
+
+* **Co-organizer:** [18. Doktorand:innentreffen der Stochastik](https://stat.math.uni-heidelberg.de/dts2023/index.html) (2023)
+
 
 
 ## Theses 
