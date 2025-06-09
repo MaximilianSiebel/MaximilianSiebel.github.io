@@ -23,6 +23,8 @@ permalink: /research/
 
 ## <span style="color:#A9A9A9"> (Upcoming) </span> Talks
 
+* Conference: Stochastic partial differential equations: Statistics meets numerics; Institute Mittag-Leffler; Sweden; June 2025; Title: "Convergence Rates for the Maximum A Posteriori Estimator in PDE-Regression Models with Random Design" 
+
 * GPSD 2025; Dresden, Germany; March 2025; Title: "Convergence Rates for the Maximum A Posteriori Estimator in PDE-Regression Models with Random Design" 
 
 * Cosmology Discussion Seminar (Prof. Dr. Matthias Bartelmann); Heidelberg University; January 2025; Title: "Estimating Differential Equations in the presence of stochastic noise -
@@ -49,6 +51,10 @@ A mathematical perspective"
 ## Conferences
 
 I also attended the following conferences and workshops:
+
+* Conference: Stochastic partial differential equations: Statistics meets numerics; Institute Mittag-Leffler; Sweden; June 2025
+
+* GPSD 2025; Dresden, Germany; March 2025
 
 * Workshop: Statistical Aspects of Non-Linear Inverse Problems; University of Cambridge, UK; September 2024
 
