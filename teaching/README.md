@@ -10,6 +10,8 @@ permalink: /teaching/
 
 ## Teaching Assistant
 
+* **Winter term 2025/2026:**  Lecture "[Einführung in die Wahrscheinlichkeitstheorie und Statistik](https://sip.math.uni-heidelberg.de/vl/ews-ws25/)", held by [Prof. Dr. Jan Johannes](https://www.janjohannes.de).
+
 * **Winter term 2024/2025:** Seminar "[Extremwerttheorie](https://sip.math.uni-heidelberg.de/2024/07/12/Seminar-ET/)".
 
 * **Winter term 2024/2025:** Lecture "[Linear Algebra I](https://sip.math.uni-heidelberg.de/vl/la1-ws24/)", held by [Prof. Dr. Jan Johannes](https://www.janjohannes.de).

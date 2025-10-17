@@ -13,11 +13,11 @@ permalink: /research/
 
 ## Publications
 
-* November 2024 - Sergio Brenner Miguel, Jan Johannes, Maximilian Siebel. "[Multiplicative deconvolution under unknown error distribution.](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-18/issue-2/Multiplicative-deconvolution-under-unknown-error-distribution/10.1214/24-EJS2314.full)" Electronic Journal of Statistics, 18(2) 4795-4850 2024.
+* October 2025 - Maximilian Siebel. "[Convergence Rates for the Maximum A Posteriori Estimator in PDE-Regression Models with Random Design](https://epubs.siam.org/doi/full/10.1137/25M1744526)". SIAM/ASA Journal on Uncertainty Quantification Vol. 13, No. 4, pp. 1862--1903.
+
+* November 2024 - Sergio Brenner Miguel, Jan Johannes, Maximilian Siebel. "[Multiplicative deconvolution under unknown error distribution.](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-18/issue-2/Multiplicative-deconvolution-under-unknown-error-distribution/10.1214/24-EJS2314.full)". Electronic Journal of Statistics, 18(2) 4795-4850 2024.
 
 ## Preprints
-
-* August 2024 - Maximilian Siebel: [Convergence Rates for the Maximum A Posteriori Estimator in PDE-Regression Models with Random Design](https://arxiv.org/abs/2409.03417)
 
 * July 2024 - Christof Schötz, Maximilian Siebel: [Lower Bounds for Nonparametric Estimation of Ordinary Differential Equations](https://arxiv.org/abs/2407.14993)
 
@@ -84,7 +84,7 @@ I also attended the following conferences and workshops:
 
 ## Professional Activities
 
-* **Reviewer:** Referee for The Annals of Statistics, Electronic Journal of Statistics, Journal of Multivariate Analysis, SIAM/ASA journal on uncertainty quantification, Statistics.
+* **Reviewer:** Referee for The Annals of Statistics, Electronic Journal of Statistics, Journal of Multivariate Analysis, SIAM/ASA Journal on uncertainty quantification, SIAM Journal on Optimization, Statistics.
 
 * **Co-organizer:** [18. Doktorand:innentreffen der Stochastik](https://stat.math.uni-heidelberg.de/dts2023/index.html) (2023)
 

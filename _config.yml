@@ -31,8 +31,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             News
-    url:               /news/
+  #- title:             News
+  #  url:               /news/
   - title:             Teaching
     url:               /teaching/
   - title:             Research
