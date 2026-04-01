@@ -29,7 +29,7 @@ author1:
      email:           <siebel@math.uni-heidelberg.de>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
-     google:          <https://scholar.google.com/citations?user=2u4XlvIAAAAJ&hl=en>
+    # google:          <https://scholar.google.com/citations?user=2u4XlvIAAAAJ&hl=en>
     # vk:              <username>
     # youtube:         <string_string_string>
     # vimeo:           <username>
@@ -77,6 +77,10 @@ author1:
     # discord:         <invite-code>
     # mastodon:        https://<url>
     # x:               <username>
+    links:
+    - title: Google Scholar
+      url: https://scholar.google.com/citations?user=2u4XlvIAAAAJ&hl=en
+      icon: fas fa-graduation-cap
 
 # Another author (optional)
 author2:
