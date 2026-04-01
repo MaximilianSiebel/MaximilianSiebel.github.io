@@ -55,6 +55,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
+     scholar: https://scholar.google.com/citations?user=2u4XlvIAAAAJ&hl=en
      linkedin:        maximilian-siebel-9429161a0
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
@@ -77,10 +78,11 @@ author1:
     # discord:         <invite-code>
     # mastodon:        https://<url>
     # x:               <username>
-    links:
-    - title: Google Scholar
-      url: https://scholar.google.com/citations?user=2u4XlvIAAAAJ&hl=en
-      icon: fas fa-graduation-cap
+    #links:
+    #- title: Google Scholar
+    #  url: https://scholar.google.com/citations?user=2u4XlvIAAAAJ&hl=en
+    #  icon: fas fa-graduation-cap
+    
 
 # Another author (optional)
 author2:
