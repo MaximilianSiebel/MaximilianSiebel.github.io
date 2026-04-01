@@ -13,15 +13,26 @@ permalink: /research/
 
 ## Publications
 
+* February 2026 - Christof Schötz, Maximilian Siebel: "[Lower Bounds for Nonparametric Estimation of Ordinary Differential Equations](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-20/issue-1/Lower-bounds-for-nonparametric-estimation-of-ordinary-differential-equations/10.1214/26-EJS2484.full)". Electronic Journal of Statistics, 20(1): 503-559 (2026).
+
 * October 2025 - Maximilian Siebel. "[Convergence Rates for the Maximum A Posteriori Estimator in PDE-Regression Models with Random Design](https://epubs.siam.org/doi/full/10.1137/25M1744526)". SIAM/ASA Journal on Uncertainty Quantification Vol. 13, No. 4, pp. 1862--1903.
 
-* November 2024 - Sergio Brenner Miguel, Jan Johannes, Maximilian Siebel. "[Multiplicative deconvolution under unknown error distribution.](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-18/issue-2/Multiplicative-deconvolution-under-unknown-error-distribution/10.1214/24-EJS2314.full)". Electronic Journal of Statistics, 18(2) 4795-4850 2024.
+* November 2024 - Sergio Brenner Miguel, Jan Johannes, Maximilian Siebel. "[Multiplicative deconvolution under unknown error distribution.](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-18/issue-2/Multiplicative-deconvolution-under-unknown-error-distribution/10.1214/24-EJS2314.full)". Electronic Journal of Statistics, 18(2) 4795-4850 (2024).
 
 ## Preprints
 
-* July 2024 - Christof Schötz, Maximilian Siebel: [Lower Bounds for Nonparametric Estimation of Ordinary Differential Equations](https://arxiv.org/abs/2407.14993)
+* March 2026 - Fanny Seizilles, Maximilian Siebel: [Posterior contraction under misspecification and heteroscedasticity in non-linear inverse problems](https://arxiv.org/abs/2603.28177).
 
 ## <span style="color:#A9A9A9"> (Upcoming) </span> Talks
+
+* Research Seminar (Professor Markus Reiß), Humboldt-Universität zu Berlin, January 2026;
+Title: "Heteroscedasticity and mild misspecification in nonlinear statistical inverse problems."
+
+* Research Seminar (Professor Claudia Schillings), Freie Universität Berlin, January 2026; Title:
+"Heteroscedasticity and mild misspecification in nonlinear statistical inverse problems."
+
+* Scientific Computing Seminar (Professor Robert Scheichl), Heidelberg University, December
+2025; Title: "Heteroscedasticity and mild misspecification in nonlinear statistical inverse problems."
 
 * Conference: Stochastic partial differential equations: Statistics meets numerics; Institute Mittag-Leffler; Sweden; June 2025; Title: "Convergence Rates for the Maximum A Posteriori Estimator in PDE-Regression Models with Random Design" 
 
@@ -45,6 +56,10 @@ A mathematical perspective"
 * Applied Analysis Seminar, Heidelberg, June 2022; Title: "Statistical Inverse Problems: PDE constrained Regression Models"
 
 ## Poster
+
+* Data-driven methods for partial differential equations, Karlsruhe, Germany, March 2026; Ti-
+tle: "Posterior contraction under misspecification and heteroskedasticity in non-linear inverse
+problems."
 
 * YRC Structures Days, Heidelberg, July 2023; Title: "Statistical Inverse Problems: (P)DE Constrained Regression Models"
 
@@ -86,7 +101,9 @@ I also attended the following conferences and workshops:
 
 * **Reviewer:** Referee for The Annals of Statistics, Electronic Journal of Statistics, Journal of Multivariate Analysis, SIAM/ASA Journal on uncertainty quantification, SIAM Journal on Optimization, Statistics.
 
-* **Co-organizer:** [18. Doktorand:innentreffen der Stochastik](https://stat.math.uni-heidelberg.de/dts2023/index.html) (2023)
+* **Co-organizer:** [18. Doktorand:innentreffen der Stochastik](https://stat.math.uni-heidelberg.de/dts2023/index.html) (Heidelberg, August 2023)
+** [Pathways into Mathematics of SPDEs: A Workshop for Young Researchers](https://ssp.math.uni-heidelberg.de/WS_SPDEs_2026/Schedule/tim.html)
+(Heidelberg, March 2026).
 
 
 
