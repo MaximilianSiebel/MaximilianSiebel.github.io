@@ -7,13 +7,16 @@ subtitle: Statistical inverse problems · Bayesian nonparametrics · PDE-constra
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
     <p>Humboldt-Universität zu Berlin</p>
     <p>Institute of Mathematics</p>
+    <p>Rudower Chaussee 25</p>
     <p>Berlin, Germany</p>
+    <p>Office: Room 1.207</p>
+    <p>Phone: +49 (0)30 2093-45468</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
