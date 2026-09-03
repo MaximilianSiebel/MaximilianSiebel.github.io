@@ -8,8 +8,22 @@ nav_order: 6
 calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Supervision
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+- **Master's thesis:** [Title], Heidelberg University, 2025.
+- Further student projects or theses, where applicable.
 
-{% include courses.liquid %}
+## Courses
+
+### Heidelberg University
+
+- Statistics of Inverse Problems — teaching assistant, Summer 2023.
+- [Weitere relevante Master-/Bachelorveranstaltungen]
+- [Seminare und Lesekreise nur, wenn du organisatorisch oder lehrend
+  beteiligt warst]
+
+## Selected student seminars and projects
+
+- Regression with Unknown Design, Summer 2023.
+- Statistics for Discretely Observed Lévy Processes, Winter 2023/24.
+- Annals of Statistics Reading Group, Summer 2024.
