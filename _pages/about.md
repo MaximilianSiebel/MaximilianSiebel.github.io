@@ -27,9 +27,9 @@ latest_posts:
 
 I am a postdoctoral researcher in the Stochastics group at
 [Humboldt-Universität zu Berlin](https://www.hu-berlin.de), working with
-[Markus Reiß](LINK). I received my PhD in Mathematics from Heidelberg
+[Markus Reiß](https://www.hu-berlin.de). I received my PhD in Mathematics from Heidelberg
 University in 2026 under the supervision of
-[Jan Johannes](LINK).
+[Jan Johannes](https://www.hu-berlin.de).
 
 My research lies at the intersection of **statistical inverse problems**,
 **Bayesian nonparametrics**, and **inference for partial differential
