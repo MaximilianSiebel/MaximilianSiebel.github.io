@@ -28,6 +28,14 @@ latest_posts:
   enabled: false
 ---
 
+<style>
+  @media (min-width: 576px) {
+    .profile {
+      width: 36%;
+    }
+  }
+</style>
+
 I am a postdoctoral researcher in the Stochastics group at
 [Humboldt-Universität zu Berlin](https://www.hu-berlin.de), working with
 [Markus Reiß](https://www.hu-berlin.de). I received my PhD in Mathematics from Heidelberg
