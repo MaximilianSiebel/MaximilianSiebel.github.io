@@ -1,0 +1,116 @@
+/* Maximilian Siebel — site-specific design layer */
+:root {
+  --global-theme-color: #123b63;
+  --global-hover-color: #0b5e9c;
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #80b5e5;
+  --global-hover-color: #acd3f4;
+}
+
+.quick-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin: 0.2rem 0 0.85rem;
+}
+.quick-links a {
+  border: 1px solid var(--global-theme-color);
+  border-radius: 999px;
+  padding: 0.28rem 0.8rem;
+  font-size: 0.88rem;
+  font-weight: 500;
+}
+.quick-links a:hover {
+  color: var(--global-bg-color);
+  background: var(--global-theme-color);
+  text-decoration: none;
+}
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.8rem 0 2.3rem;
+}
+.research-card {
+  position: relative;
+  border: 1px solid var(--global-divider-color);
+  border-top: 3px solid var(--global-theme-color);
+  border-radius: 0.45rem;
+  padding: 1.15rem 1.1rem 1rem;
+  background: var(--global-card-bg-color);
+}
+.research-card h2 {
+  margin-top: 0.15rem;
+  font-size: 1.23rem;
+  font-weight: 500;
+}
+.research-card p {
+  font-size: 0.94rem;
+}
+.research-number {
+  color: var(--global-theme-color);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+}
+.research-keywords {
+  margin-bottom: 0;
+  color: var(--global-text-color-light);
+  font-size: 0.82rem !important;
+}
+
+.academic-list {
+  border-left: 2px solid var(--global-divider-color);
+  margin: 0.8rem 0 2rem 0.35rem;
+  padding-left: 1.25rem;
+}
+.academic-list h3 {
+  position: relative;
+  margin: 1.15rem 0 0.28rem;
+  font-size: 1.05rem;
+  font-weight: 500;
+}
+.academic-list h3::before {
+  position: absolute;
+  top: 0.42rem;
+  left: -1.7rem;
+  width: 0.72rem;
+  height: 0.72rem;
+  border: 2px solid var(--global-theme-color);
+  border-radius: 50%;
+  background: var(--global-bg-color);
+  content: "";
+}
+.academic-list p {
+  margin-bottom: 0.35rem;
+  color: var(--global-text-color-light);
+  font-size: 0.92rem;
+}
+
+.event-tag,
+.supervision-note {
+  display: inline-block;
+  margin-right: 0.35rem;
+  border-radius: 999px;
+  padding: 0.08rem 0.48rem;
+  color: var(--global-theme-color);
+  background: color-mix(in srgb, var(--global-theme-color) 11%, transparent);
+  font-size: 0.76rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.publications ol.bibliography li .abbr abbr {
+  background-color: var(--global-theme-color);
+  box-shadow: none;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+@media (max-width: 780px) {
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+}
