@@ -1,9 +1,8 @@
 ---
 layout: post
-#title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
-inline: false
+date: 2026-07-16 12:00:00+0200
+inline: true
 related_posts: false
 ---
 
-News2
+I successfully defended my PhD thesis at Heidelberg University.

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-08-28 12:00:00+0200
 inline: true
 related_posts: false
 ---
 
-News 1
+I presented **“Parameter Estimation for Matérn Random Fields from Local Measurements”** at the 35th European Meeting of Statisticians in Lugano.

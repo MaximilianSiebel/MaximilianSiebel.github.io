@@ -1,29 +1,44 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
+title: Teaching
+description: Teaching and student supervision.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 5
+calendar: false
 ---
+
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
 ## Supervision
 
-- **Master's thesis:** [Title], Heidelberg University, 2025.
-- Further student projects or theses, where applicable.
+- **Master's thesis** — _[Title]_, [Student], Heidelberg University, 2025.<br>
+  <span class="supervision-note">Primary supervisor</span>
 
-## Courses
+- **Bachelor's thesis / student project** — _[Title]_, [Student], Heidelberg University, [year].<br>
+  <span class="supervision-note">Supervisor</span>
+
+- **Bachelor's thesis / student project** — _[Title]_, [Student], Heidelberg University, [year].<br>
+  <span class="supervision-note">Supervisor</span>
+
+## Teaching experience
 
 ### Heidelberg University
 
-- Statistics of Inverse Problems — teaching assistant, Summer 2023.
-- [Weitere relevante Master-/Bachelorveranstaltungen]
-- [Seminare und Lesekreise nur, wenn du organisatorisch oder lehrend
-  beteiligt warst]
+- **Nonparametric Minimax Theory** — seminar, Summer 2026
+- **Introduction to Probability Theory and Statistics** — teaching assistant, Winter 2025/26
+- **Extreme Value Theory** — seminar, Winter 2024/25
+- **Linear Algebra I** — teaching assistant, Winter 2024/25
+- **Probability Theory II** — teaching assistant, Summer 2024
+- **Statistics for Discretely Observed Lévy Processes** — seminar, Winter 2023/24
+- **Probability Theory I** — teaching assistant, Summer 2023
+- **Statistics II** — exercise classes, Winter 2022/23
+- **Probability Theory I** — teaching assistant, Summer 2022
+- **Statistics I** — exercise classes, Winter 2021/22
+- **Introduction to Probability Theory and Statistics** — exercise classes, Winter 2019/20
 
-## Selected student seminars and projects
+## Selected seminars and reading groups
 
-- Regression with Unknown Design, Summer 2023.
-- Statistics for Discretely Observed Lévy Processes, Winter 2023/24.
-- Annals of Statistics Reading Group, Summer 2024.
+- **Regression with Unknown Design** — student project, Summer 2023
+- **Statistics for Discretely Observed Lévy Processes** — seminar, Winter 2023/24
+- **Annals of Statistics Reading Group** — reading group, Summer 2024

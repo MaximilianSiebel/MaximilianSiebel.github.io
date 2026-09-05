@@ -17,7 +17,7 @@ profile:
     <p>Phone: +49 (0)30 2093-45468</p>
 
 selected_papers: false
-social: true
+social: false
 
 announcements:
   enabled: true
@@ -36,11 +36,13 @@ latest_posts:
   }
 </style>
 
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
 I am a postdoctoral researcher in the Stochastics group at
 [Humboldt-Universität zu Berlin](https://www.hu-berlin.de), working with
-[Markus Reiß](https://www.hu-berlin.de). I received my PhD in Mathematics from Heidelberg
-University in 2026 under the supervision of
-[Jan Johannes](https://www.hu-berlin.de).
+[Markus Reiß](https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/stochastik/stoch-employees/mreiss).
+I am also a member of the
+[Collaborative Research Centre 1294 “Data Assimilation”](https://sfb1294.math.uni-potsdam.de/).
 
 My research lies at the intersection of **statistical inverse problems**,
 **Bayesian nonparametrics**, and **inference for partial differential
@@ -48,7 +50,14 @@ equations**. I develop statistical theory for nonlinear and computationally
 approximated models, with particular emphasis on posterior contraction,
 model misspecification, uncertainty quantification, and minimax lower bounds.
 
-Current research interests include robust Bayesian inference for nonlinear
-inverse problems, PDE-constrained regression, statistical methods for
-dynamical systems, Gaussian random fields, and multiplicative measurement
-error models.
+I received my PhD in Mathematics from Heidelberg University in 2026 under the
+supervision of [Jan Johannes](https://www.janjohannes.de). During my doctoral
+studies, I was a member of the
+[STRUCTURES Cluster of Excellence](https://structures.uni-heidelberg.de/) and
+undertook research visits at the University of Cambridge.
+
+<div class="quick-links" aria-label="Quick links">
+  <a href="{{ '/research/' | relative_url }}">Research</a>
+  <a href="{{ '/publications/' | relative_url }}">Publications</a>
+  <a href="{{ '/cv/' | relative_url }}">CV</a>
+</div>
