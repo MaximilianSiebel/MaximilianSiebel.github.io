@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 description: Statistical methodology for inverse problems, differential equations, and uncertainty quantification.
-nav: true
+nav: false
 nav_order: 2
 ---
 

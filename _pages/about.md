@@ -22,7 +22,7 @@ social: false
 announcements:
   enabled: true
   scrollable: true
-  limit: 4
+  limit: 5
 
 latest_posts:
   enabled: false
@@ -41,16 +41,16 @@ latest_posts:
 I am a postdoctoral researcher in the Stochastics group at
 [Humboldt-Universität zu Berlin](https://www.hu-berlin.de), working with
 [Markus Reiß](https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/stochastik/stoch-employees/mreiss).
-I am also a member of the
+I am also part of the
 [Collaborative Research Centre 1294 “Data Assimilation”](https://sfb1294.math.uni-potsdam.de/).
 
 My research lies at the intersection of **statistical inverse problems**,
 **Bayesian nonparametrics**, and **inference for partial differential
-equations**. I develop statistical theory for nonlinear and computationally
-approximated models, with particular emphasis on posterior contraction,
-model misspecification, uncertainty quantification, and minimax lower bounds.
+equations**. I develop statistical theory for linear and nonlinear
+inverse problems. A particular emphasis is on spectral-cut-off estimation, posterior contraction,
+noise and model misspecification, uncertainty quantification, and minimax-theory.
 
-I received my PhD in Mathematics from Heidelberg University in 2026 under the
+I received my PhD in Mathematics from Heidelberg University in July 2026 under the
 supervision of [Jan Johannes](https://www.janjohannes.de). During my doctoral
 studies, I was a member of the
 [STRUCTURES Cluster of Excellence](https://structures.uni-heidelberg.de/) and

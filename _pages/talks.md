@@ -45,13 +45,13 @@ nav_order: 4
 
 ### Convergence Rates for the Maximum A Posteriori Estimator in PDE-Regression Models with Random Design
 
-<span class="event-tag">Conference talk</span> _Stochastic Partial Differential Equations: Statistics Meets Numerics_, Institut Mittag-Leffler, Sweden · June 2025
+<span class="event-tag">Conference talk</span> Stochastic Partial Differential Equations: Statistics Meets Numerics, Institut Mittag-Leffler, Sweden · June 2025
 
 ### Convergence Rates for the Maximum A Posteriori Estimator in PDE-Regression Models with Random Design
 
 <span class="event-tag">Conference talk</span> German Probability and Statistics Days, Dresden, Germany · March 2025
 
-### Estimating Differential Equations in the Presence of Stochastic Noise — A Mathematical Perspective
+### Estimating Differential Equations in the Presence of Stochastic Noise - A Mathematical Perspective
 
 <span class="event-tag">Invited seminar</span> Cosmology Discussion Seminar, Heidelberg University · January 2025
 
@@ -67,7 +67,7 @@ nav_order: 4
 
 ### Convergence Rates for the Maximum A Posteriori Estimator in PDE-Regression Models with Random Design
 
-<span class="event-tag">Workshop talk</span> _Statistical Aspects of Non-Linear Inverse Problems_, University of Cambridge, UK · September 2024
+<span class="event-tag">Workshop talk</span> Statistical Aspects of Non-Linear Inverse Problems, University of Cambridge, UK · September 2024
 
 ### Nonparametric Estimation of Ordinary Differential Equations
 
@@ -79,7 +79,7 @@ nav_order: 4
 
 </div>
 
-## Earlier talks
+## 2023
 
 <div class="academic-list" markdown="1">
 
@@ -89,7 +89,11 @@ nav_order: 4
 
 ### Statistical Inverse Problems: PDE-Constrained Regression Models
 
-<span class="event-tag">Young researchers' meeting</span> Doktorand:innentreffen Heidelberg–Mannheim, Mannheim · May 2023
+<span class="event-tag">Young researchers' meeting</span> Doktorand:innentreffen Heidelberg-Mannheim, Mannheim · May 2023
+
+## 2022
+
+<div class="academic-list" markdown="1">
 
 ### Statistical Inverse Problems: PDE-Constrained Regression Models
 
