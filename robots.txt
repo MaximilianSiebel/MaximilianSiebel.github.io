@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://maximiliansiebel.github.io/academic-website/sitemap.xml
+Sitemap: https://maximiliansiebel.github.io/sitemap.xml
