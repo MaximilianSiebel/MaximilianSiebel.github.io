@@ -11,6 +11,8 @@ nav_order: 3
 
 {% include bib_search.liquid %}
 
+<div class="publications" markdown="1">
+
 ## Peer-reviewed publications
 
 {% bibliography --query @*[status=published] --group_by none %}
@@ -22,3 +24,5 @@ nav_order: 3
 ## Doctoral thesis
 
 {% bibliography --query @*[status=thesis] --group_by none %}
+
+</div>
