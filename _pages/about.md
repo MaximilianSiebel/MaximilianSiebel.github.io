@@ -57,7 +57,6 @@ studies, I was a member of the
 undertook research visits at the University of Cambridge.
 
 <div class="quick-links" aria-label="Quick links">
-  <a href="{{ '/research/' | relative_url }}">Research</a>
   <a href="{{ '/publications/' | relative_url }}">Publications</a>
   <a href="{{ '/cv/' | relative_url }}">CV</a>
 </div>
