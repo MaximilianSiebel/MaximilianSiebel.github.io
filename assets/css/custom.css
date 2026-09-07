@@ -112,13 +112,13 @@ html[data-theme="dark"] {
   letter-spacing: 0.02em;
 }
 
-/* Keep DOI metadata in BibTeX but hide the separate DOI button. */
-.publications .links a[href^="https://doi.org/"] {
-  display: none;
-}
-
 @media (max-width: 780px) {
   .research-grid {
     grid-template-columns: 1fr;
   }
+}
+
+/* Hide DOI buttons while keeping DOI metadata in BibTeX. */
+.publications .links a[href^="https://doi.org/"] {
+  display: none !important;
 }
