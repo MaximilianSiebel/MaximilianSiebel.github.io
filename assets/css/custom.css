@@ -109,10 +109,10 @@ html[data-theme="dark"] {
   letter-spacing: 0.02em;
 }
 
-/* Keep DOI metadata in BibTeX but hide the separate DOI button. */
-
 @media (max-width: 780px) {
   .research-grid {
     grid-template-columns: 1fr;
   }
 }
+
+/* Hide DOI buttons while keeping DOI metadata in BibTeX. */
