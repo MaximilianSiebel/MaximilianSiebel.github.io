@@ -91,6 +91,8 @@ nav_order: 4
 
 <span class="event-tag">Young researchers' meeting</span> Doktorand:innentreffen Heidelberg-Mannheim, Mannheim · May 2023
 
+</div>
+
 ## 2022
 
 <div class="academic-list" markdown="1">
