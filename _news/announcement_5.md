@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New preprint with Fanny Seizilles: **“Posterior Contraction under Misspecification and Heteroscedasticity in Non-Linear Inverse Problems.”** [arXiv](https://arxiv.org/abs/2603.28177)
+New preprint with [Fanny Seizilles](https://seizillesf.github.io): **“Posterior Contraction under Misspecification and Heteroscedasticity in Non-Linear Inverse Problems.”** [arXiv](https://arxiv.org/abs/2603.28177)
